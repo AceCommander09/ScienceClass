@@ -1,7 +1,7 @@
 {
   "name": "artclass",
   "version": "4.0.0",
-  "description": "More than just a game site",
+  "description": "No games here!",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "AceCommander09",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
     "@tomphttp/bare-server-node": "^2.0.2",
