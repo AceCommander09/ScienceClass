@@ -15,18 +15,6 @@ var games = [
     url: 'https://escaperoad.io',
   },
   {
-    id: 'eggycar',
-    title: 'Eggy Car',
-    url: 'https://assets.3kh0.net/eggycar/index.html',
-    image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
-  },
-  {
-    id: 'rocketleague',
-    title: 'Rocket League',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/Rocket-League/index.html',
-    image: 'https://www.softgozar.com/Image/Softwares/Thumbnail/Rocket_League_Anniversary_SoftGozar.com.png'
-  },
-  {
     id: 'cookieclicker',
     title: 'Cookie Clicker',
     description: 'Cookie Clicker is an addictive incremental game where players click to produce cookies, unlock upgrades, and aim to amass an ever-growing mountain of delicious digital treats.',
@@ -40,12 +28,6 @@ var games = [
     image: 'https://lh3.googleusercontent.com/dJAftLFmxmWdTAEjuolFrtNNAX3D0HjODTm9703CP7JqM_jFgOgPR75d6xqRsYTwoTot'
   },
   {
-    id: 'thereisnogame',
-    title: 'There Is No Game',
-    url: 'https://assets.3kh0.net/there-is-no-game/index.html',
-    image: 'https://play-lh.googleusercontent.com/a6DfrYUL6viV0LAZFplqqA44gE0LHE0PyDnKHgdlydiUvccwzSBWrmRQSx5cjdL74Us=w240-h480-rw'
-  },
-  {
     id: 'fbwg',
     title: 'Fireboy and Watergirl',
     description: 'A 2 player game where you have to work together using logic and teamwork to get to the finish line.',
@@ -53,48 +35,11 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/5-YcjiTyMrPJEZe078dHMxnCxcg2A_8NWJZQieRvn2Gkf8JOuHZEbTmFyQ9gn5p2lnU'
   },
   {
-    id: 'driftboss',
-    title: 'Drift Boss',
-    image: 'https://play-lh.googleusercontent.com/fLrnXuD1B0w6FEDJ1UKmv_TYbNyJ4GwzsQu9ltx57MfIj037nig4cVunG3CYmczkjMDA',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://738501629-461082748261058427.preview.editmysite.com/uploads/b/139890129-817510652323129407/files/drbo.xml'
-  },
-  {
     id: 'osu',
     title: 'osu!',
     description: 'A web version of osu!',
     url: 'https://web-osu.github.io/',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png',
-  },
-  {
-    id: 'cuttherope',
-    title: 'Cut the Rope',
-    url: 'https://assets.3kh0.net/ctr/index.html',
-    image: 'https://play-lh.googleusercontent.com/8FNcAyLXtQB_0Ux2ZO8VZoEoihL6a5VMBNf6V2lydRM24hXLnNUdlEup1d5miVjl3JY'
-  },
-  {
-    id: 'tombofthemask',
-    title: 'Tomb of the Mask',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/element@9cccb2fafb569c963501a5d818472b561121cea6/totm.xml',
-    image: 'https://play-lh.googleusercontent.com/gTd127I81O2i2Q6kfCJoN-M0OSWmgsdjB47orUFpLwANW7VZLJYrOxMVt-OpilDXszg=w240-h480-rw'
-  },
-  {
-    id: 'backrooms',
-    title: 'Backrooms',
-    description: 'Scary game based on the viral 4Chan post.',
-    url: 'https://assets.3kh0.net/backrooms/index.html',
-    image: 'https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/1:1/w_679,h_679,c_limit/Backrooms-Games.jpg'
-  },
-  {
-    id: 'youarebezos',
-    title: 'You are Bezos',
-    url: 'https://assets.3kh0.net/you-are-bezos/index.html',
-    image: 'https://img.itch.zone/aW1nLzE1NzI2NjIucG5n/original/Equhiy.png'
-  },
-  {
-    id: 'papaburgers',
-    title: 'Papa\'s Burgeria',
-    url: 'https://mazahacka2017.github.io/papas-burgeria',
-    image: 'https://i.flipline.com/gamefiles/papasburgeriatogo/app_upsell_C.jpg'
   },
   {
     id: 'papasicecream',
