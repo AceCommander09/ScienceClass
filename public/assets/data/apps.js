@@ -11,6 +11,13 @@ var apps = [
       'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
       
     },
+    {   
+      "id": "Minecraft",
+      "title": "Minecraft",
+      "url": "https://classic.minecraft.net",
+      'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
+      
+    },
     {
       "id": "discord",
       "title": "Discord",
